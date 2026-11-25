@@ -1,0 +1,63 @@
+{
+  "extensionName": {
+    "message": "ChatGPT Sohbet Erişilebilirliği"
+  },
+  "extensionDescription": {
+    "message": "Ekran okuyucularla gezinmeyi iyileştirmek için yüklenmiş ChatGPT mesajlarını DOM içinde tutar."
+  },
+  "checking": {
+    "message": "Durum kontrol ediliyor."
+  },
+  "auto": {
+    "message": "ChatGPT sekmelerinde otomatik çalıştır"
+  },
+  "apply": {
+    "message": "Etkinleştir ve sayfayı yenile"
+  },
+  "pause": {
+    "message": "Bu sekmede durdur ve sayfayı yenile"
+  },
+  "refresh": {
+    "message": "Durumu güncelle"
+  },
+  "info": {
+    "message": "Yama yalnızca tanıdığı JavaScript koduna uygulanır. Chrome hata ayıklama bildirimi gösterebilir. Yama uygulandıktan sonra NVDA+F5 ile sanal tamponu yenileyebilirsiniz. Bağımsız uzantıdır; OpenAI ile bağlantılı değildir."
+  },
+  "notChat": {
+    "message": "ChatGPT sekmesi açık değil."
+  },
+  "autoOff": {
+    "message": "Otomatik çalışma kapalı."
+  },
+  "patched": {
+    "message": "Yama uygulandı ($COUNT$ kaynak). Ekran okuyucunuzla doğrulayın.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "error": {
+    "message": "Bağlantı kurulamadı. DevTools kapalıyken tekrar etkinleştirin."
+  },
+  "paused": {
+    "message": "Bu sekmede duraklatıldı."
+  },
+  "unknown": {
+    "message": "Bu sürümün kod yapısı tanınmadı; orijinal kod kullanılıyor."
+  },
+  "searching": {
+    "message": "Uyumlu kod aranıyor ($COUNT$ kaynak). Gerekirse sayfayı yenileyin.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "notConnected": {
+    "message": "Henüz bağlantı kurulmadı."
+  },
+  "failed": {
+    "message": "Durum okunamadı. Uzantıyı yeniden açın."
+  }
+}

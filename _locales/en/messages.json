@@ -1,0 +1,63 @@
+{
+  "extensionName": {
+    "message": "Conversation Accessibility for ChatGPT"
+  },
+  "extensionDescription": {
+    "message": "Keeps loaded ChatGPT conversation messages in the DOM to improve screen reader navigation."
+  },
+  "checking": {
+    "message": "Checking status…"
+  },
+  "auto": {
+    "message": "Run automatically on ChatGPT tabs"
+  },
+  "apply": {
+    "message": "Enable and reload page"
+  },
+  "pause": {
+    "message": "Pause on this tab and reload page"
+  },
+  "refresh": {
+    "message": "Refresh status"
+  },
+  "info": {
+    "message": "Only recognized JavaScript is modified. Chrome may display a debugging notification. Once the patch is applied, NVDA users can refresh the virtual buffer with NVDA+F5. Independent extension; not affiliated with OpenAI."
+  },
+  "notChat": {
+    "message": "No ChatGPT tab is active."
+  },
+  "autoOff": {
+    "message": "Automatic operation is off."
+  },
+  "patched": {
+    "message": "Patch applied ($COUNT$ resource(s)). Verify with your screen reader.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "error": {
+    "message": "Unable to connect. Try enabling again with DevTools closed."
+  },
+  "paused": {
+    "message": "Paused on this tab."
+  },
+  "unknown": {
+    "message": "Unrecognized code structure; the original code is used."
+  },
+  "searching": {
+    "message": "Looking for compatible code ($COUNT$ resources). Reload if necessary.",
+    "placeholders": {
+      "count": {
+        "content": "$1"
+      }
+    }
+  },
+  "notConnected": {
+    "message": "Not connected yet."
+  },
+  "failed": {
+    "message": "Unable to read status. Reopen the extension popup."
+  }
+}
